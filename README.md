@@ -3,7 +3,8 @@
 
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
 ## Date: 17/11/25
-###  
+###  NAME : KAMALESH R
+### REG NO : 212223230094
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
